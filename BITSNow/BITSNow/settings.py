@@ -26,7 +26,7 @@ SECRET_KEY = 'yd$19law@-yk!h0=*(bqn=jujtdmp-))u@q39a6qh1-n=k%#0l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ gethostname(), gethostbyname(gethostname()),'192.168.43.128',]
+ALLOWED_HOSTS = [ gethostname(), gethostbyname(gethostname()),'192.168.43.128','192.168.5.108','172.16.27.66','192.168.43.150']
 
 
 # Application definition
